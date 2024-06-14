@@ -1,0 +1,15 @@
+-START-OF-DATA-
+0.0      0.0
+2034.0	  0.0
+2035.0	  5e+13
+2050.0	  5e+13
+2050.0	  0.0	
+999999.9 0.0
+-END-OF-DATA-
+
+NOTE: total flux in units of mol yr-1
+can be rescaled in the user-config file by setting the value of parameter:
+bg_par_ocn_force_scale_val_12
+
+1e+13 mol NaOH = 440 Mt NaOH
+5e+13 mol NaOH ~ 2 Pg NaOH
